@@ -1,0 +1,11 @@
+html, body {
+    background: #222222;
+    margin: 0;
+    overflow: hidden;
+}
+#data {
+    color: #f2f2f2;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
